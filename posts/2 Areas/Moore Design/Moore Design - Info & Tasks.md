@@ -28,6 +28,7 @@ tags: work
 
 ## Upcoming Projects
 - [[Moore Design Website]]
+- [[Moore Design Website Build]]
 
 
 ---
