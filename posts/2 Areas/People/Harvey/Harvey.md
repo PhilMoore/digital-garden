@@ -17,9 +17,3 @@ follow_up:
 
 
 ## Meetings
-
-```dataview
-TABLE summary as "Summary" from "meetings"
-where contains(attendees,"Untitled")
-sort date desc
-```

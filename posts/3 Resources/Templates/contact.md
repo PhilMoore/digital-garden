@@ -15,9 +15,3 @@ publish: false
 
 
 ## Meetings
-
-```dataview
-TABLE summary as "Summary" from "2 Areas/People/Meetings"
-where contains(attendees,"<% tp.file.title %>")
-sort date desc
-```
