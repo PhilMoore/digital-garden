@@ -19,7 +19,7 @@ tags: current, work
 -   Ensure autoplay video is working correctly.
 
 ## Tasks Once Website is Live
--   Allocate page templates to pages
+~~-   Allocate page templates to pages~~
 
 
 ---

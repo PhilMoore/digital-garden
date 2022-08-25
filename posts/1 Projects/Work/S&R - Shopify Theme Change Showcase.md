@@ -29,4 +29,4 @@ Switch over the Shopify theme to Showcase
 
 
 ---
-[Stone & Rock | Links & Tasks](https://www.amplenote.com/notes/35d0c658-e53e-11ec-94aa-f2e2bc5c6b4b)
+[[Stone & Rock - Links & Tasks]]]
