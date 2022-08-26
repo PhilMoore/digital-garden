@@ -23,9 +23,15 @@ I find the _Tag Wrangler_ plugin very helpful for renaming and merging my tags.
 
 ### Setting Up Obsidian Publish
 **Free Github Option** - [[Git & Github Notes]]
-[Using Quarts for Free version of Obisdian Publish](https://quartz.jzhao.xyz/)
-https://quartz.jzhao.xyz/notes/setup/
+
+**Current Publish Setup**
+https://github.com/PhilMoore/digital-garden
+https://app.netlify.com/sites/pm-obsidian/overview
+https://www.netlify.com/blog/2020/11/30/how-to-deploy-next.js-sites-to-netlify/
 - [Obisidian Git](https://github.com/denolehov/obsidian-git) Plugin for Obsidian might be good for this.
+
+Another option if Netify does not work: https://blot.im/
+
 
 
 ## Helpful Videos

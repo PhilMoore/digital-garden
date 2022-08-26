@@ -17,8 +17,6 @@ tags: current, work,
 
 ## Brief
 
-
-
 2x Pre-Launches
 
 ### Legggins Presale - Green, Gray, Maroon
@@ -34,6 +32,11 @@ Folder in Air with the images of the leggings to set them up - setup as addition
 - In addition to the offers above, they can ADD A TANK TOP FOR $25 (normally $36) - **This is for all tanks** & inc the 2 new ones. 
 
 Additional Info Here - [[Caliper - Casey Meeting 16-08-22]]
+
+## Post Launch Changes
+- 1x Leggings $118
+- 2x Leggings $89ea + Free leash = $178
+- 3x leggings $89ea + Free Leash, Free Collar + 2 wine glasses = 
 
 
 ---
