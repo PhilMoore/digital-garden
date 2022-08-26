@@ -46,6 +46,7 @@ Back:
 ## Tasks
 - Design a draft business card using the brief above using Affinity ideally. 
 
+
 ---
 
 ## Notes
