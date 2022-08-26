@@ -19,6 +19,7 @@ a:hover {
     overflow: hidden;
     position: relative;
     flex-direction: row;
+    justify-content: center;
 }
 
 /* Foooter section BEGIN */
@@ -115,7 +116,7 @@ a:hover {
     width: 300px;
     flex: 0 0 300px;
     position: relative;
-    display: flex;
+    display: none;
     background-color: var(--background-primary-alt);
     border-right: 1px solid var(--background-secondary-alt);
     font-family: var(--default-font);
