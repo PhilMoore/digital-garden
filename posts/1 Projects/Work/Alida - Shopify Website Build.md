@@ -44,23 +44,22 @@ Double Check Fonts are Avenir Next or something like this
 "Open Water Swimsuits" / Really warm / Good for winter 
 
 
-**Marie Colours**
-1. Swirls / Green  
-2. Dark Green / Lime  
-3. Navy / Mauve  
-4. Turquoise / Dark Purple
+~~**Marie Colours**~~
+~~1. Swirls / Green~~  
+~~2. Dark Green / Lime~~  
+~~3. Navy / Mauve~~  
+~~4. Turquoise / Dark Purple~~
  
- **Anne Colours**
- This style with the 4 colour combination.  But it is not reversible.
- 1. Red / Oranje / Pink  
-Dark Purple  
-2. Lime / Turquoise / Green / Dark Green  
-3. Turquoise / Dark Purple / Orange / Navy
+~~**Anne Colours**~~
+ ~~This style with the 4 colour combination.  But it is not reversible.~~
+ ~~1. Red / Oranje / Pink /Dark Purple
+~~2. Lime / Turquoise / Green / Dark Green~~
+~~3. Turquoise / Dark Purple / Orange / Navy~~
 
-**Lidsie Colours**
-Reversible options
-1. Navy / Light Blue / Orange & Dark Purple / Orange
-2. Dark Green / Red / Lime & Lime / Red
+~~**Lidsie Colours**~~
+~~Reversible options~~
+~~1. Navy / Light Blue / Orange & Dark Purple / Orange~~
+~~2. Dark Green / Red / Lime & Lime / Red~~
 
 ---
 [[Alida - Info & Tasks]]
