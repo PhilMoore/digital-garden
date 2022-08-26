@@ -7,7 +7,7 @@
 
 ### Tasks
 -   **Add copyright to footer of website**
-    
+
 
 ## Things to include
 -   Examples of our graphics design work

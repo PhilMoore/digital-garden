@@ -92,6 +92,7 @@ Meeting ID: 955 8199 0588
 -   `Koo` - Also  / Then
 -   `Sa-baay-jay` - Relaxed / Chill
 -   `Sa-baay Sa-baay` - Chill Chill, Very Chill, Very Relaxed
+-   `Sam-khan` - Important
 
 
 ### General Sentences
@@ -382,6 +383,7 @@ Meeting ID: 955 8199 0588
 -   `Koon` - Before
 -   `Kii Moong` - What time?
 -   `Wan-nii Pom ja tham …` - Today I will 
+-   `Riip` - Hurry
 
 
 ### Days of The Week | Vocabulary
