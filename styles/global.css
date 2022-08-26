@@ -12,3 +12,6 @@ body {
 #sidebar {
     padding-left: 16px;
 }
+.nav-bar {
+  display: none;
+}
