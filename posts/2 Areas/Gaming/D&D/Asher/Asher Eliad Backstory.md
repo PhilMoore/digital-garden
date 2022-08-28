@@ -33,3 +33,8 @@ Asher was a child who could never sit still and liked to talk and was very persu
 Another 8 years had passed while they where in Waterdeep, Asher was very charismatic and loved to be around others. He also started playing the Violin after being mesmarised by its sounds and over the last 8 years became very good at it. In his early 20's he also started hunting bounties in the city learning that it could be quite fruitful career leading him to make friends and enemies. One such bounty was a Thief who was after a valuable trinket from a noble. Upon catching the Thief, Asher bound him and searched him before handing him over. He noticed the thief was wearing an interesting ring with a compartment which the noble who hired him was wearing, thinking that this was in fact stolen property he took the ring back from the thief and handed him over but chose to not return the ring to the noble saying that he did not find it on the thief. 
 
 Asher was not certain why he choose to do this but he felt the ring was in a way calling to him but he could not figure out why or what it was....
+
+
+
+---
+[[Asher Eliad Notes]]

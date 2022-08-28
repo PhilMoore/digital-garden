@@ -21,3 +21,7 @@
 ### Flaws
 -   I have trouble keeping my true feelings hidden. My sharp tongue lands me in trouble.
 -   It's not stealing if I need it more than someone else.
+
+
+---
+[[Asher Eliad Notes]]
