@@ -1,5 +1,4 @@
 
-
 # Asher Eliad - Personality Traits
 
 ### Personality traits
