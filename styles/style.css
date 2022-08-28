@@ -175,6 +175,7 @@ a:hover {
 }
 
 .markdown-rendered h1,
+
 .markdown-rendered h2,
 .markdown-rendered h3,
 .markdown-rendered h4,
@@ -186,6 +187,7 @@ a:hover {
 .markdown-rendered h1 {
     font-size: 2.0em;
     font-weight: 800;
+    margin-bottom: 40px;
 }
 
 .markdown-rendered h2 {

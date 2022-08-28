@@ -1,5 +1,13 @@
 
 # Kali Lesson Content
+[Core Combat Kali Lvl 1 ](https://drive.google.com/file/d/1TwyNwoZnq_dT9JPaobbSZzrYEtkbA7-C/view?usp=sharing)
+
+![[Martial Arts - Core Combat - Kali-Level-1-2022.pdf]]
+
+
+
+
+---
 
 ### 2 Stick Drills
 
