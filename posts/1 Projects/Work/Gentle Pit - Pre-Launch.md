@@ -31,7 +31,7 @@ Folder in Air with the images of the leggings to set them up - setup as addition
 ### Tank Presale - Green Love and B&W Dog image tank. 
 - In addition to the offers above, they can ADD A TANK TOP FOR $25 (normally $36) - **This is for all tanks** & inc the 2 new ones. 
 
-Additional Info Here - [[Caliper - Casey Meeting 16-08-22]]
+Additional Info Here - [[Caliper Global - Casey Meeting 16-08-22]]
 
 ## Post Launch Changes
 - 1x Leggings $118

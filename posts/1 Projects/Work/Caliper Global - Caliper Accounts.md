@@ -13,13 +13,30 @@ tags: current, work
 ## Info
 - [Things](things:///show?id=ANQmC4gNgVpT1VA6Qb759y)
 
-## Tasks
 
+## Tasks
 Can we have a system on a weekly and monthly basis where you send me a Xero report so I can see the exact profitability of the business? - Weekly basis
 
--   Send Callum a report on the last 30 days, compared to the previous 30 days.
--   Create team@caliper email as a catch all. On google workspace.
+~~-   Send Callum a report on the last 30 days, compared to the previous 30 days.~~
+~~-   Create team@caliper email as a catch all. On google workspace.~~
 -   Look into setting up an Org account for Zoom so billing is all through 1 account.
+
+#### New Spreadsheet Report Tasks
+From [[Caliper Global - Meeting with Callum - 29-08-22]]
+
+- [Read this article](https://parakeeto.com/blog/how-to-calculate-profitability-for-your-marketing-agency-clients-and-projects-the-definitive-guide/) before we do this and ask Callum any questions.
+- Total cash collected (via stripe month to date net volume of sales + any banktrasnfers in Wise not from Stripe). 
+	- total money spent (costs in Xero)
+	- Gross Profit after this. ( (should be 60% ish) (includes both contractor and salaries costs)
+		- Stripe fees (& bank fees)
+		- Travel (remove any airline costs)
+		-  Advertising and marketing 
+	- Net Profit (needs to be minimum 10k per month)
+	Do this from Jan 2022 - August 2022
+- Create a spreadsheet with this shown like Xero but the COGS are in the correct place and hide it so Callum only sees these 4 data points (cash coming in, Costs, gross profit, net profit)
+
+Create a new tab in this spreadsheet (accurate profit)
+[Caliper Basic P&L document](https://docs.google.com/spreadsheets/d/1zzFuTG6mKwLsOsgpoxsaE4AqZda00DG-LcNuS2jD4H4/edit#gid=1497646721)
 
 ---
 
