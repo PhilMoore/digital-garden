@@ -13,6 +13,11 @@ Born in Daggerford in the Lady Luck Tavern, blessed at birth by the goddess of L
 
 **Alignment**: Chaotic Good
 
+## Quotes
+- The choice is yours, but would you take that choice from others? (Referring to slavers or other things)
+- 
+
+
 
 ### Imp Familiar
 **Name:** Felix

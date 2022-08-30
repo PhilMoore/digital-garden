@@ -37,9 +37,7 @@ Needs a one page, sales-page style layout where we can get orders in without bu
 
 [https://www.lelabofragrances.com/about-us.html#manifesto](https://www.lelabofragrances.com/about-us.html#manifesto) - Loves the branding style for this
 
-https://ahluwalia.world/collections#spring-summer-2023look, feel and backgrounds similar. However a completely different mood and feel.  
-  
-[KennethIze.net](http://kennethIze.net)  ---'Similar product, same material and  also produced in the same place.  
+https://ahluwalia.world/collections#spring-summer-2023look, feel and backgrounds similar. However a completely different mood and feel.   
   
 [Lisafolawiyo.com](http://Lisafolawiyo.com)- same fabric from the same place. (This is for Callum to see the price range)
 

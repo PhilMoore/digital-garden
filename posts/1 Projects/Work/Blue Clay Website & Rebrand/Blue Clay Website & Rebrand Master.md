@@ -57,6 +57,7 @@ tags: inbox
 	- Base designs off placeholders, review options, feedback and refine
 
 #### G Analytics Access
+‼️ Libby is an owner and needs to be removed - and ventraip??
 
 Analytics - Moore Design
 blueclay.com.au
@@ -76,7 +77,7 @@ Patrick Dawson Law
 
 Business Profile Manager
 business.google.com
--   add us as a user
+-   added hello@mooredesign
 
 FB
 - just need FB pixel code

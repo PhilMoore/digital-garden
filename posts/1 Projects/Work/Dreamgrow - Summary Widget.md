@@ -7,7 +7,7 @@ publish: false
 tags: current, work,
 ---
 
-# Dreamgrow - Summary Widget
+# DreamGrow - Summary Widget
 
 ## Info
 -   Back end Wordpress test page for the block: [https://www.dreamgrow.com/wp-admin/post.php?post=31571&action=edit](https://www.dreamgrow.com/wp-admin/post.php?post=31571&action=edit) ( I did save this as a group block but cant find where its put it)    
