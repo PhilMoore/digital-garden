@@ -18,7 +18,7 @@ Wordpress Logins
 - info@seasonalworkersnetwork.com
 - Handijack1997#
 
-CPanel Login
+[CPanel Login](https://www.seasonalworkersnetwork.com:2083/cpsess9374204362/frontend/paper_lantern/index.html?login=1&post_login=61398013336027)
 - Username: s587729
 - Pass: sSB2Rnx2YpA
 

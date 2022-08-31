@@ -21,6 +21,9 @@ tags: current, work,
 
 ## Brief
 
+Mention on all her products that it ships in 2-3 weeks!
+
+
 ---
 
 ## Tasks

@@ -32,6 +32,14 @@ Bolder Button Text
 }
 ```
 
+Collection Hero - Less Padding on Mobile
+```
+@media only screen and (max-width: 749px){
+.hero__content {
+  padding: 20px !important;
+} }
+```
+
 
 
 ## Create Filters on Collection

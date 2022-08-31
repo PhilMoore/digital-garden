@@ -28,7 +28,7 @@ From [[Caliper Global - Meeting with Callum - 29-08-22]]
 - Total cash collected (via stripe month to date net volume of sales + any banktrasnfers in Wise not from Stripe). 
 	- total money spent (costs in Xero)
 	- Gross Profit after this. ( (should be 60% ish) (includes both contractor and salaries costs)
-		- Stripe fees (& bank fees)
+		~~- Stripe fees (& bank fees)~~
 		- Travel (remove any airline costs)
 		-  Advertising and marketing 
 	- Net Profit (needs to be minimum 10k per month)
