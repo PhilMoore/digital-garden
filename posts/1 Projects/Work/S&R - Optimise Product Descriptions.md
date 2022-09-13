@@ -7,14 +7,14 @@ publish: false
 tags: current, work
 ---
 
-# S&R - Optimise Product Descriptions
+# S&R - Optimise Products
 
 ## Info
 - [Things](things:///show?id=MSsrr4KEZASnVecQYCr6e7)
 
 ---
 
-## Brief
+## Brief 1
 
 Can you go through S&R products (on the website) and optimise the product descriptions so they look better?
 
@@ -25,9 +25,17 @@ I've set the H2 tag we use as white and in the bottom, you cant see it unless yo
 
 I would do it in the order the menu is at by collection. E.g. Start in basins, wall cladding, Tiles & pavers. Just make sure you finish off a collection before you start another one and please let me know what is done i'll make a note and tag you in it
 
----
+## Brief 2
 
-## Info
+#### Concrete Basins
+Merge multiple colours of the same concrete basin styles into the same product. Use  "Black EF31", "Cream EF31" etc as the SKU's. And migrtate all images and description information into one of these products which will be the master and remove the "Black", from the name but keep the "EF31" (for example). 
+
+Merge products, keep SKU in title but remove the rest.
+
+Use the app  B4B – Variable Products to display them (currently they are disabled on this I will test and enable on monday)
+
+
+### Info
 -   [Product SEO spreadsheet](https://docs.google.com/spreadsheets/d/1I1s5OLa7XUMsgRzWWupj4m3G78yVhisMTsnL8VMRhXc/edit?usp=sharing) - Updated now with new sheet
 -   [S&R - Optimise Travertine SEO - Harvey Brief](https://docs.google.com/document/d/1exwLHROT1J9PEcJcegyTGGVFAU7LVYuycZ-hqK8slLg/edit?usp=sharing)
   

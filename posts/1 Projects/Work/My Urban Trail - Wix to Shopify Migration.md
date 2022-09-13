@@ -20,6 +20,7 @@ tags: current, work,
 
 ## Tasks
 -   Link domain (ask customer for info)
+-   Go through shoot images and add to new site.
 
 ---
 

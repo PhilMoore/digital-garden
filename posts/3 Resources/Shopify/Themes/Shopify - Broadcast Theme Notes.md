@@ -40,6 +40,13 @@ Collection Hero - Less Padding on Mobile
 } }
 ```
 
+Heading hover menu - Less top spacing
+```
+.header__dropdown.is-visible, .menu__item:not(.grandparent):hover>.header__dropdown {
+  margin-top: -15px !important;
+}
+```
+
 
 
 ## Create Filters on Collection

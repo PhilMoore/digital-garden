@@ -508,11 +508,37 @@ Meeting ID: 955 8199 0588
 -   `Phuu-jat-kaan` - Manager
 -   `Phoo-Khrua` - Male Chef
 -   `Mee-Khrua` - Female Chef
--   `???` - Web Designer 
+-   `Wep-(say) Na ook bep` - Web Designer 
+-   `Kraap-fik Na ook bep` - Graphic Designer 
+
+
+## Weather | Vocabulary
+-   `Aa-kaat` / `Aa gaat` - Weather
+-   `Aa-kaat` / `Aa gaat roon` - Hot Weather
+-   `Aa-kaat` / `Aa gaat naaw` - Cold Weather
+-   `Aa-kaat` / `Aa gaat yen` - Cool Weather
+-   `Ru-duu` / `Naa` - Season
+-   `Ru-duu roon` - Summer Season
+-   `Ru-duu naaw` - Winter Season
+-   `Ru-duu fon` - Rainy Season
+-   `Ru-duu bay-maay-ruang` - Autumn Season
+-   `Ru-duu bay-maay-phli` - Spring Season
+-   `Hi-ma (said He-ma)` - Snow
+-   `Deet` - Sunlight
+-   `Chuun` - Humid
+-   `Fon` - Rain
+-   `Mook` - Fog
+-   `Luuk-Hep` - Hail
+-   `Reeng` - Strong
+-   `Lom` - Wind
+-   `Fun` - Dust
+-   `Meek` - Cloud
+-   `Phaa-yu` - Storm
+-   `Naam-khaang kheng` - Frost
 
 
 ## Versions of No
-<sup>_If mai is used at the end of the sentence its a confirm/deny question for yes or no questions._</sup>
+<sup>If mai is used at the end of the sentence its a confirm/deny question for yes or no questions.</sup>
 -   `Mai-Chai` - No
 -   `Mai-Oww` - No take
 -   `Mai-Mii` - No have

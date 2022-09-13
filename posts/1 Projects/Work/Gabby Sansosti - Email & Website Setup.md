@@ -3,7 +3,7 @@ date: 2022-08-30
 type: project
 company: Gabby Sansosti 
 summary: "Helping setup emails, marketing and website"
-tags: email, work, upcoming
+tags: email, work, current
 ---
 
 # [[Gabby Sansosti - Email & Website Setup]]
@@ -42,6 +42,18 @@ She is at the very beginning of things and has 2 projects that need set up right
 
 ## Notes
 
+**Godaddy POP3 Settings**
+POP3: outlook.office365.com
+SMTP: smtp.office365.com
+
+Password for both emails is TonalTonal77!
+
+Mailchimp
+gabbysansosti@gmail.com
+TonalTonal77!
+
+Gabby7 or Gabriella7
+Cardiobarre1!
 
 ---
 [[Gabby Sansosti - Info & Tasks]]

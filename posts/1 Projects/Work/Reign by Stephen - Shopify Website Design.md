@@ -59,4 +59,4 @@ Ben Suggested to Remove some of these full width images.
 
 
 ---
-[[Reign by Stephen - Info & Tasks]]]
+[[Reign by Stephen - Info & Tasks]]

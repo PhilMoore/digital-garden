@@ -41,9 +41,7 @@ Mobile: [https://www.loom.com/share/bf7c27c84e7e403d8312f1bc4517cf58](https://w
 ---
 
 ## Tasks
--   Fix logo - Not centered on desktop
--   Add wish list Icon to header like old theme has
--   Redo homepage collection section (with images) - Take images from current collections linked in this section and use here.
+- Make website live
 
 ## Tasks Once Website Is Live
 -   Allocate Page Templates

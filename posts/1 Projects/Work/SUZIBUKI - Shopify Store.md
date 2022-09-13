@@ -29,7 +29,8 @@ Needs a one page, sales-page style layout where we can get orders in without bu
 ---
 
 ## Tasks
-
+- [Add new logos to website](things:///show?id=P2sRy9JMeFiWRjVA62uHT3)
+- [Add press release as a blog](things:///show?id=RrtrvmLsmjtwXN5PrVg7cj)
 
 ---
 

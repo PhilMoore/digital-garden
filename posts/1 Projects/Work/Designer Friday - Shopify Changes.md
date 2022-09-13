@@ -3,12 +3,12 @@ date: 2022-08-12
 type: project
 company: Designer Friday
 client: caliper global
-summary: ""
+summary: "Bhava Rishi 12k Shopify Project"
 tags: current, work, shopify
 ---
 
 # [[Designer Friday - Shopify Changes]]
-`3 Hour Project`
+`3 Hour Project` - Bhava Rishi
 
 ## Info
 - https://designerfriday.com/ 
@@ -49,6 +49,12 @@ Overall look similar to Hannah Henry
 - ~~Add reviews~~
 - ~~Large images~~
 - 
+
+## Bens Feedback
+
+- ~~Add carousel of reviews (like homepage) on products page under "FAQ  / Shipping" section~~
+- [Tag product dresses to Maxi / Midi or Braless Wonder ](things:///show?id=9rRHsKsWQuAFfRpm1u16yq)
+
 
 ---
 

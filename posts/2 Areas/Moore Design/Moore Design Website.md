@@ -2,7 +2,7 @@
 # Moore Design Website
 
 ## Links
--   [Moore Design Website - Inspiration](https://www.amplenote.com/notes/b67787f6-de68-11ec-b7c5-02d81509313b)
+- [[Moore Design Website Build]]
 
 
 ### Tasks

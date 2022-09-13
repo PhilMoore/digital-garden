@@ -55,10 +55,11 @@ Pul student info from Students
 
 ## Tasks
 ~~- Create a Para style clients note and projects note system with templates. ~~
-- Integrating due dates on the system, 
-- Have a timeline bar - start and end of the program (6 months after start)
-- Timeline bar, start and finish for web design
-- Timeline bar start and finish for content creation 7-weeks. (3 weeks before shoot, preproduction prep) (4 weeks for production and post production. )
+~~- Integrating due dates on the system,~~ 
+~~- Have a timeline bar - start and end of the program (6 months after start)~~
+~~- Timeline bar, start and finish for web design~~
+~~- Timeline bar start and finish for content creation 7-weeks. (3 weeks before shoot, preproduction prep) (4 weeks for production and post production. )~~
+
 
 ---
 

@@ -7,6 +7,9 @@ tags: work
 ---
 
 # Moore Design - Info & Tasks
+**Legal Company Name:** Moore Design Co
+**Partnership UTR Number:** 2556846772
+
 
 ## Links
 - [Things](things:///show?id=NbZHgGeuw9evG9YtWcs4i7)

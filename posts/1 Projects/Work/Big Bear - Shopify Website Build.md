@@ -64,6 +64,37 @@ Image / countdown / block of text / email opt-in
 **Get Client to install these apps:**
 -   newsletter signup pop-up.
 
+
+### Customer Feedback 1
+
+Landing Page 
+-   The pop up doesn’t come up 
+-   The View products button on the landing page isn’t linked to anything
+-   The Learn More button on the landing page isn’t linked to anything
+-   The product section on the landing page, the first feature is cut off for some reason so you can only see the word six
+-   Change the learn more button on the Sustainable and Hardwearing section to View Products button with a link to the shop
+-   Can you add a surname section when people are subscribing to the newsletter
+-   Can you change the colour of the bottom section from Blue to Black and make the Newsletter section centered on the bottom section
+-   At the bottom of the page can you add an area for T&Cs, Privacy Notice and Cookie Policy
+-   Can you also add at the bottom a section for Delivery Information and Returns Policy
+
+Shop
+-   Can you take off the dropdown on the shop menu on the landing page. 
+-   Can you remove the filter option
+-   Can you make the thumbnails bigger and centred
+-   Can you reduce the whitespace below the products
+-   Where it says All Products can you also add in below – Your Head Will Thank You 
+
+  
+
+Individual Product Pages
+-   Can you change the picture so that it has more than one picture. So, within the same page you’ll be able to see 2 large pictures and 3 small pictures like a collage. 
+-   Can you add a section above description area that shows some information about free shipping. I’ve included a photo to give you an idea on this and the photos. 
+-   Can you remove the sections below this detailing product feature and another feature.
+-   Can you remove the What makes us special section.
+
+
+
 ---
 
 ## Notes
