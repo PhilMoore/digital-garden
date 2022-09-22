@@ -18,7 +18,7 @@ tags: current, work,
 
 ---
 
-## Feedback
+## Feedback 1
   
 Existing site: [https://www.loom.com/share/94fef85d97c842cdbb410604e08a2a23](https://www.loom.com/share/94fef85d97c842cdbb410604e08a2a23)
 New site: [https://loom.com/share/67b4f0531a0f43df9ad1744ac6adad5d](https://loom.com/share/67b4f0531a0f43df9ad1744ac6adad5d)
@@ -33,15 +33,22 @@ Mobile: [https://www.loom.com/share/bf7c27c84e7e403d8312f1bc4517cf58](https://w
 -   Double check weight and size of text - compared to the old theme.
 -   CSS for Journal on mobile, can we code it so all images on the journal/blog appear in the same aspect ration for consistency?
 
-## Menu
+### Menu
 -   Most popular products are jumpsuits (what they are known for)
 -   Popular styles
 -   Find a way to make this work better (rewatch the mobile video)
 
 ---
 
+
+## Feedback 2 
+[Googlesheet with feedback](https://docs.google.com/spreadsheets/d/1HBt3Mc_VknOzGtylDCL-PqXp2t42Z0dVXpBcTmFRsUc/edit?usp=sharing)
+
+
+---
+
 ## Tasks
-- Make website live
+
 
 ## Tasks Once Website Is Live
 -   Allocate Page Templates

@@ -34,3 +34,52 @@ Thank you for placing your order with us. We hope that your experience has met y
 We would greatly appreciate it if you could spend 20 seconds to help us and our future customers by posting a review!
 
 LINK
+
+
+---
+# AC Email Templates
+
+## AIDA: Attention, Interest, Desire Action
+
+Hello, `First Name`!  
+
+We understand how difficult dealing with `explain the problem your company addresses` maybe for `lead role`.  
+
+Our `product/service` relieves you of stress and assists in the `problem-solving` process with our `short pitch`.  
+
+If you want us to help, you solve the problem, `insert a call-to-action like an email/sign-up/call`! 
+
+Regards, `signature`
+
+---
+
+## Sharing a Resource
+
+Hello, `First Name`
+
+Sharing a Resource
+
+I liked and learned a lot from your most recent post on `site`.
+
+I figured I'd repay the favor by assisting you with something useful as well. Would you mind taking a look at this article about `article topic` that I think you'll find useful?
+
+Check it out by clicking here `link`!  
+I hope it becomes useful to you and your team. Keep it up; you're doing a fantastic job! 
+
+Best, `signature`
+
+---
+
+## Problem-Solution
+
+Hi `First Name`,  
+
+We've noticed that `lead's firm` is experiencing `the problem`.
+
+It's a difficult challenge to solve, and it might cost you `statistics or data to aggravate the pain spot`.
+
+But don't be worried. With `your product's major benefits /short pitch`, our `product/service` helps you solve this problem.
+
+Would you be available for a call next week to see our `major benefit/solution` in action? 
+
+Regards, 

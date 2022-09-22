@@ -4,7 +4,9 @@
 
 
 ## Personal Info
-Born in Daggerford in the Lady Luck Tavern, blessed at birth by the goddess of Luck Tymora. 
+Born in Daggerford in the Lady Luck Tavern, blessed with white hair at birth by the goddess of Luck Tymora. Asher Eliad is a warm, forthright and sligly cocky 24 year old (ENFJ & chaotic good) fair skinned male. He has green eyes and pretty much looks like this  
+
+
 
 
 ## Personality Traits

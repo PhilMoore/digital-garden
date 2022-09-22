@@ -54,4 +54,16 @@ Use this template: [https://mirai-template.webflow.io/works](https://mirai-templ
 > Shopify & webflow specialists
 
 
+
+### Website Services We offer:
+-   Shopify SEO
+-   E-commerce Development
+-   E-commerce Store Setup
+-   Shopify Redesign
+-   Shopify Development
+-   Shopify Migration
+-   Shopify Integration
+-   Maintenance & Support
+-   Digital Marketing Services
+
 ---

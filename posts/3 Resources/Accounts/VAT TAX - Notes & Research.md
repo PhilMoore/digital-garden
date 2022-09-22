@@ -1,4 +1,6 @@
-
+---
+alias: corp tax,
+---
 # VAT TAX - Notes & Research
 
 ### Filing Yearly / Quarterly / Monthly

@@ -3,7 +3,7 @@ date: 2022-08-26
 type: project
 company: Stone & Tock
 summary: "Business Card Design Required"
-tags: work, current, graphics design,
+tags: work, graphics design,
 ---
 
 # [[S&R - Business Card Designs]]

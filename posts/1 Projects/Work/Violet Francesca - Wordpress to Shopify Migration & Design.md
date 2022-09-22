@@ -11,6 +11,7 @@ tags: inbox
 
 ## Info
 - https://violetfrancesca.com/ 
+- [[Violet Francesca Wendy Meeting - 21-09-22]]
 - [Things](things:///show?id=UbK7xyGeFKiwCJqnMt4UU1)
 
 
@@ -47,10 +48,24 @@ Ariel bracelet
 
 ## Tasks
 
+Moonstone
+Rose Quartz
+Citrine
+Labradorite
+Amethyst
+Lapis Lazuli
+Black Tourmaline
 
 ---
 
 ## Notes
+
+Requires an app to use more then 100 variants per product:
+	Best options:
+		[https://apps.shopify.com/product-customizer](https://apps.shopify.com/product-customizer)  
+		[https://apps.shopify.com/custom-options](https://apps.shopify.com/custom-options)
+		[https://apps.shopify.com/product-options](https://apps.shopify.com/product-options)
+
 
 
 ---
