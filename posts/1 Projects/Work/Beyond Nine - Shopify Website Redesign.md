@@ -44,6 +44,142 @@ Mobile: [https://www.loom.com/share/bf7c27c84e7e403d8312f1bc4517cf58](https://w
 ## Feedback 2 
 [Googlesheet with feedback](https://docs.google.com/spreadsheets/d/1HBt3Mc_VknOzGtylDCL-PqXp2t42Z0dVXpBcTmFRsUc/edit?usp=sharing)
 
+### Homepage
+`Desktop` - ~~Remove 'home' tab? People can click on the logo centre to get to home?~~
+`Mobile` - Suggested 'product' (under sign up to email) can we edit this ourselves or does this pull through as an algorithm based on what the customer has viewed? (currently watermelon bed shorts) 
+
+```
+Mobile - This is editable by you, we just left this there as a placeholder
+```
+
+
+### Pop-up
+`Desktop` - The pop up in the bottom right, seems conflicting with the 10% offer in bottom left? Our wording needs to be added as it is still the standard text
+
+```
+What is the wording you want for this? I'm a little confused if you want this pop up or not or would you prefer to only use the Klayivo version.
+```
+
+`Mobile` - This takes up over half the screen on mobile?
+
+```
+This is intentional, its designed to capture the users attention. We find the Klaviyo version not so good on mobile its hard to read vs this one being bigger is much easier to read. 
+
+Again not 100% if you wanted both pop-ups or just the Klaviyo one.
+```
+
+## Main Menu Nav
+`Desktop` - I don't think the horizontal menu is working - the spacing looks off and messy. Please can we revert to a drop down but with the nested levels as mentioned previously? How do we change the nested headers - Full body needs to be Jumpsuits and Dresses  
+
+```
+The mega menu is currently setup as defauly with the theme. If you want changes to the spacing we can edit this in code. I personally dont see what the issue is here. 
+I'll just change it to a non-megamenu for now. 
+
+Did you want this nested as 3 seperate menus like we've done or one long menu like you had before? 
+
+
+```
+
+Pls make sure all colour swatches are straight and not on angles, i.e. stripes  
+
+```
+Can you send us files for these where they are straight? We re only cropping them from the product images which you said you did not like.
+If you have these as files please send them to us like the others you sent we can fix any of the ones you dont like.
+
+```
+  
+~~Beyond Nine logo is smaller?~~ 
+
+We've also lost the greyed out bar <sup>I think they mean the announcement bar</sup> from previous website? 
+
+```
+Not sure what you mean by the grayed out bar...
+```
+
+~~Main menu should disappear when scroll down?~~   
+  
+Promotion photo/text box on right to be updated with our wording - where is this updated?   
+
+```
+This is updated via the header customisation on the theme. If you want to give me the wording and image you want I can get this updated
+```
+  
+~~The top headerbox detailing about VAT & Duty only shows when on the homepage, it needs to be displayed at all times~~
+
+`Mobile` - When you click on the headers on the menu (which are clearer in terms of layout on mobile) i.e. Full body - they don't work. But I think this will change as per desktop comment.   
+
+```
+I dont understand the issue here, please let us know which ones do not work. On my testing they all worked.
+```
+
+Ticker tape doen't move.   
+
+```
+I see its set to hover permanetly vs only on hover on desktop. I'll see if we can get this coded in quicky. 
+```
+
+Header detailing VAT info needs to be static.   
+If you scroll all the way down past the product info the next block needs updating.   
+
+```
+Can you provide me a screenshot or something comparing this? I dont really understand what you mean here and cant replicate the issue. 
+```
+  
+~~Please remove the ticker tape sating Free shippping and returns,~~
+
+There is an image missing, the next text section needs completing - currently just shows as subheading, media with text, optional button etc.
+
+```
+Yes this is a placeholder and was waiting for you to provide us with some more content for it. I'll hide it for now.
+```
+
+### Collection pages & shop all
+Can we make sure filters are not automatically dropped down as this makes the page look very messy - all to be minimised. the Header is underlined on the middle letter, we don't have this on our current site.
+
+### Product Page 
+`Desktop`  - Description - what will pull through from main description here?  
+Make. the main image swipeable? At the moment if you click it only enlarges, but need to be able to swipe through without having to scroll.    
+  
+Some compostions are incorrect in the new metafields. We need Cupro adding so we can select from the dropdown, please advise how we update this list.   
+  
+Can we keep the sizing buttons as per our current theme?   
+  
+Product title to be in capitals as per our current site, text spacing looks wider and thicker?   
+Sale ticker tape dosn't really work?   
+The review stars are duplicated and show twice, should the one directly below the description be removed as this means the garment price is pushed down and sandwiched between the 2 lots of reviews.
+
+`Mobile` - the additional colour swatches available for a style aren't showing, only the colour swatched liked to that exact product is displayed.
+
+### Footer
+Gift. at the very bottom of the product page the currency has defaulted to France GBP £ - needs to be UK. The social buttons are small and less obvious, can they be bigger?
+
+### Pages
+Our Ethos - header too small, no arch. Font size/ spacing not as previous site, do underlined. FAQ's = S to be a capital
+
+### FAQS
+Can we add this and keep as a hidden page? I think it's hideen currently. Questions with drop downs, make sure opens minimised
+
+### About
+Image? Doesn't look as strong as current About page. Do we need an arch? Currently underlined
+
+### Contact Us
+Is this linked to our email (RB YES have tested) Country default is france - please update to UK
+
+### Gift Card 
+Can the values be displayed as buttons like on our previous site?
+
+### Journal
+Do we need an arch? Currently underlined. How do we maintain and update the filter drop down?
+
+### Fonts 
+Not all fonts look correct - pls follow brand guidelines for this. I.e. the ticker tape that says 'Drive a tractor in it' - this is not spaced correctly and font it too thick. Please check throughout, should match previous website. Product pages - pls check Vs current product page, for e.g. we have the product title written in CAPS, but on the new version it's all lower case? Arches are missing over headings and it has been replaced with an underline
+
+### Wishlist
+Did we agree to add this back in?
+
+### ACCOUNT
+We have lost the arch over the word login. It now uses the word Account rather than a person symbol
+
 
 ---
 
