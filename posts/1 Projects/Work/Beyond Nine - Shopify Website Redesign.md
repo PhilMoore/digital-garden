@@ -46,77 +46,32 @@ Mobile: [https://www.loom.com/share/bf7c27c84e7e403d8312f1bc4517cf58](https://w
 
 ### Homepage
 `Desktop` - ~~Remove 'home' tab? People can click on the logo centre to get to home?~~
-`Mobile` - Suggested 'product' (under sign up to email) can we edit this ourselves or does this pull through as an algorithm based on what the customer has viewed? (currently watermelon bed shorts) 
-
-```
-Mobile - This is editable by you, we just left this there as a placeholder
-```
-
+`Mobile` - Suggested 'product' (under sign up to email) can we edit this ourselves or does this pull through as an algorithm based on what the customer has viewed? (currently watermelon bed shorts)  - REPLIED
 
 ### Pop-up
-`Desktop` - The pop up in the bottom right, seems conflicting with the 10% offer in bottom left? Our wording needs to be added as it is still the standard text
-
-```
-What is the wording you want for this? I'm a little confused if you want this pop up or not or would you prefer to only use the Klayivo version.
-```
-
-`Mobile` - This takes up over half the screen on mobile?
-
-```
-This is intentional, its designed to capture the users attention. We find the Klaviyo version not so good on mobile its hard to read vs this one being bigger is much easier to read. 
-
-Again not 100% if you wanted both pop-ups or just the Klaviyo one.
-```
+`Desktop` - The pop up in the bottom right, seems conflicting with the 10% offer in bottom left? Our wording needs to be added as it is still the standard text - REPLIED
+`Mobile` - This takes up over half the screen on mobile? - REPLIED
 
 ## Main Menu Nav
-`Desktop` - I don't think the horizontal menu is working - the spacing looks off and messy. Please can we revert to a drop down but with the nested levels as mentioned previously? How do we change the nested headers - Full body needs to be Jumpsuits and Dresses  
-
-```
-The mega menu is currently setup as defauly with the theme. If you want changes to the spacing we can edit this in code. I personally dont see what the issue is here. 
-I'll just change it to a non-megamenu for now. 
-
-Did you want this nested as 3 seperate menus like we've done or one long menu like you had before? 
+`Desktop` - I don't think the horizontal menu is working - the spacing looks off and messy. Please can we revert to a drop down but with the nested levels as mentioned previously? How do we change the nested headers - Full body needs to be Jumpsuits and Dresses   - REPLIED
 
 
-```
+Pls make sure all colour swatches are straight and not on angles, i.e. stripes  - REPLIED
 
-Pls make sure all colour swatches are straight and not on angles, i.e. stripes  
-
-```
-Can you send us files for these where they are straight? We re only cropping them from the product images which you said you did not like.
-If you have these as files please send them to us like the others you sent we can fix any of the ones you dont like.
-
-```
   
 ~~Beyond Nine logo is smaller?~~ 
 
-We've also lost the greyed out bar <sup>I think they mean the announcement bar</sup> from previous website? 
-
-```
-Not sure what you mean by the grayed out bar...
-```
+We've also lost the greyed out bar <sup>I think they mean the announcement bar</sup> from previous website? - REPLIED
 
 ~~Main menu should disappear when scroll down?~~   
   
-Promotion photo/text box on right to be updated with our wording - where is this updated?   
+Promotion photo/text box on right to be updated with our wording - where is this updated?   - 
 
-```
-This is updated via the header customisation on the theme. If you want to give me the wording and image you want I can get this updated
-```
-  
 ~~The top headerbox detailing about VAT & Duty only shows when on the homepage, it needs to be displayed at all times~~
 
-`Mobile` - When you click on the headers on the menu (which are clearer in terms of layout on mobile) i.e. Full body - they don't work. But I think this will change as per desktop comment.   
+`Mobile` - When you click on the headers on the menu (which are clearer in terms of layout on mobile) i.e. Full body - they don't work. But I think this will change as per desktop comment.   - REPLIED
 
-```
-I dont understand the issue here, please let us know which ones do not work. On my testing they all worked.
-```
-
-Ticker tape doen't move.   
-
-```
-I see its set to hover permanetly vs only on hover on desktop. I'll see if we can get this coded in quicky. 
-```
+Ticker tape don't move.   - REPLIED
 
 Header detailing VAT info needs to be static.   
 If you scroll all the way down past the product info the next block needs updating.   
@@ -127,11 +82,8 @@ Can you provide me a screenshot or something comparing this? I dont really under
   
 ~~Please remove the ticker tape sating Free shippping and returns,~~
 
-There is an image missing, the next text section needs completing - currently just shows as subheading, media with text, optional button etc.
+There is an image missing, the next text section needs completing - currently just shows as subheading, media with text, optional button etc. - REPLIED
 
-```
-Yes this is a placeholder and was waiting for you to provide us with some more content for it. I'll hide it for now.
-```
 
 ### Collection pages & shop all
 Can we make sure filters are not automatically dropped down as this makes the page look very messy - all to be minimised. the Header is underlined on the middle letter, we don't have this on our current site.

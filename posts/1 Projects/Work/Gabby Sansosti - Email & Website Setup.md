@@ -3,7 +3,7 @@ date: 2022-08-30
 type: project
 company: Gabby Sansosti 
 summary: "Helping setup emails, marketing and website"
-tags: email, work, current
+tags: email, work, waiting,
 ---
 
 # [[Gabby Sansosti - Email & Website Setup]]

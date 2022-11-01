@@ -36,3 +36,9 @@ Rach Suggestion:
 ## Notes
 
 -   Look in Travel resources for ideas
+
+
+Red Lotus Sea - Udon Thani
+Best time of year Dec-Feb
+Early morning boat ride 7-8am flowers bloom
+[https://www.tielandtothailand.com/red-lotus-sea-udon-thani/](https://www.tielandtothailand.com/red-lotus-sea-udon-thani/)

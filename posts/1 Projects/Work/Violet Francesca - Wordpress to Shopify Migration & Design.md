@@ -44,9 +44,7 @@ Cora earrings
 Esme bracelet  
 Ariel bracelet  
 
----
-
-## Tasks
+#### Stone Options
 
 Moonstone
 Rose Quartz
@@ -55,6 +53,15 @@ Labradorite
 Amethyst
 Lapis Lazuli
 Black Tourmaline
+
+-
+
+How to show different product images on collections - https://sections.design/blogs/shopify/different-product-images-on-collections
+
+---
+
+## Tasks
+
 
 ---
 

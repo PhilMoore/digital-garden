@@ -17,6 +17,18 @@ tags: shopify, work, upcoming
 ## Brief
 - Migrate TGP from Impulse theme to Showcase.
 
+[Loom Video Brief from Ben ](https://www.loom.com/share/72fab8dc09224786b5a2bf5378e6e0f3)
+~~- Rich Text Blurb of Lorem Ipsum under the HERO~~
+~~- Trust logo's - [Using Logolicious Plugin](https://apps.shopify.com/logo-slider?ot=8b1dfdf1-ad06-40fe-92ee-50b0e2d77cef&search_id=60736af3-caed-45e8-a9cd-e353871a2a2f&surface_detail=logo+list&surface_inter_position=1&surface_intra_position=1&surface_type=search_ad)~~
+~~- "Meet The Pack Legging with 3x product links of each colour"~~
+~~- 3x image text alternating section. - Ask ben for images to use there.~~ 
+~~- Testimonals under (judge.me)~~
+~~- Collections~~
+~~- Email Opt-in~~
+~~- Rescue Story~~
+~~- Journal under rescue story~~
+
+
 ---
 
 ## Tasks

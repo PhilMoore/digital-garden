@@ -63,7 +63,7 @@ Enter Under "Remove the following line to delete Shopify credit"
 
 ### Fix Announcement Bar Displaying Over Mobile Menu
 ```
-  .drawer__content {
+.drawer__content {
     z-index: 6001;
   }
 ```

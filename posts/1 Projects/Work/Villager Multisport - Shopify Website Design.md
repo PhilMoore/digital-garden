@@ -8,10 +8,11 @@ tags: shopify, current, work
 ---
 
 # [[Villager Multisport - Shopify Website Design]]
-
+`12k Student`
 
 ## Info
 - [Things](things:///show?id=CNzZ9ometwrxFGrnNdkJ5i)
+- [Styl eguide](https://docs.google.com/presentation/d/1gsBX-kAHVBkUbu5Fj-YZD4I8jRjsITjEA_IZS9KHlaI/edit#slide=id.p)
 
 ---
 

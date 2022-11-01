@@ -53,6 +53,7 @@ Home Decor & Furnishings Hashtags
 -   [Remodeling 101: The Cult of the Concrete Sink](https://www.remodelista.com/posts/concrete-sinks-kitchen-bath-remodeling-101/)
 -   [The Concrete Sink Style](http://www.theconcretesink.com/styles/)
 -   [Travertine TIles](https://www.trendysurfacesinc.com/eight-benefits-of-travertine-flooring/)
+-   [Ledgestone Benefits](https://naturalstoneveneer.com/the-benefits-of-ledge-stone-veneer-panels-for-your-walls/)
 
 ![](https://images.amplenote.com/1f799ce6-dc32-11ec-ba30-9abeb6de1996/fd7abc29-b765-4dfd-877a-193d8c8e1429.jpg)
 

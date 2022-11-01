@@ -61,6 +61,22 @@ Create a new tab in this spreadsheet (accurate profit)
 
 Look into doing the bookkeeping for Caliper - 1-2 hours max per week - Once we have that working etc, we can discuss further. — Uses receipt bank for receipts - send a spreadsheet or log of what I need receipts for. 
 
+
+## DoveKing Financials Notes
+- Core Team is 
+	- Callum £2,500  
+	- Ben £2,750  
+	- Amy £1,750  
+	- Matt £1,600
+	- **TOTAL = £8,600**
+- All other human costs are Agency (models, photographers, me etc)
+- Subscriptions, Ads, Rent etc are 
+
+From now on the gross profit is just the core team and the agency fees (and bank fees). Its basically the cost to fulfil the service
+
+All other costs should be reflected in the net profit. Including accounts and corp tax
+
+
 ## Links
 
 -   [Old Financials Document - DoveKing Financials](https://docs.google.com/spreadsheets/d/1zzFuTG6mKwLsOsgpoxsaE4AqZda00DG-LcNuS2jD4H4/edit?usp=sharing)

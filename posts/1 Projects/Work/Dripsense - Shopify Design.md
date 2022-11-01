@@ -31,7 +31,7 @@ tags: shopify, work, upcoming
 	~~- Ben suggested an image with a lead gen box below it "download to get the full guide"~~
 	~~- Check theme and see what we can do on this.~~
 ~~- More space above Outfits of the week.~~
-- Outfit of the week links
+- ~~Outfit of the week links~~
 	- Create featured outfits bundle linked from this - masks, shirt, pants
 		- Create 2 bundles to test this out. 
 ~~- Leave the newsletter section as is.~~ 
@@ -48,8 +48,8 @@ tags: shopify, work, upcoming
 - Add a block of Lorem ipsum text above the usually ships.
 ~~- Usually ships to thick and soft create as bullet points~~
 ~~- Remove share-links under this~~
-- Copy over the same 3x image and text alternating section (setup with metafields)
-- Then testimonials under alternating sections 
+~~- Copy over the same 3x image and text alternating section (setup with metafields)~~
+~~- Then testimonials under alternating sections~~ 
 
 
 --- Apps 
@@ -69,6 +69,13 @@ https://apps.shopify.com/bundle-products-mbc?search_id=a3306eda-31f7-4f1e-9bf0-f
 ---
 
 ## Notes
+
+#### Trustpilot Links
+https://support.trustpilot.com/hc/en-us/articles/203840826-Add-a-TrustBox-widget-to-a-webpage
+
+https://support.trustpilot.com/hc/en-us/articles/207024007-Trustpilot-s-Shopify-application-download-install-and-configure-it#add-a-trustbox-using-shopify-app-6
+
+https://support.trustpilot.com/hc/en-us/community/posts/4405565497106-How-To-Display-Trustpilot-Product-Reviews-On-Shopify
 
 
 ---
